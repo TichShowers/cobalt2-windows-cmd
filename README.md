@@ -8,7 +8,7 @@ Download `cobalt2.reg` to anywhere on your file system. Double click and a voila
 
 ## Example 
 
-![Command line showing Cobalt2 color scheme](http://imgur.com/xOkyQ5f)
+![Command line showing Cobalt2 color scheme](https://i.imgur.com/xOkyQ5f.jpg)
 
 ## Attribution
 
